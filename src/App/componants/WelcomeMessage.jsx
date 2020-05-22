@@ -2,7 +2,7 @@ import React from "react";
 
 export default function WelcomeMessage(){
     return(
-        <h1>Welcome to cryptodash</h1>
+        <h1>Welcome to CryptoDash</h1>
     )
 }
 
