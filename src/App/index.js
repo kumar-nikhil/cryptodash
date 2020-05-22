@@ -1,8 +1,8 @@
 import React from "react";
 import "./App.css";
-import WelcomeMessage from "./componants/WelcomeMessage";
-import AppLayout from './componants/AppLayout'
-import AppBar from './componants/AppBar'
+import WelcomeMessage from "./components/WelcomeMessage";
+import AppLayout from './components/AppLayout'
+import AppBar from './components/AppBar'
 
 
 function App() {
